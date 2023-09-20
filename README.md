@@ -1,2 +1,2 @@
 # leadTracker_01
-Just for the practice purpose
+First chrome extension made, trying to make updates from time to time.
